@@ -3,5 +3,14 @@
     "@apollo/server": "^4.11.3",
     "graphql": "^16.10.0",
     "graphql-tag": "^2.12.6"
+  },
+  "resolutions": {
+    "graphql": "^16.10.0"
+  },
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "devDependencies": {
+    "npm-force-resolutions": "^0.0.3"
   }
 }
