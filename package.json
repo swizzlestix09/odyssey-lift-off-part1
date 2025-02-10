@@ -10,7 +10,13 @@
   "scripts": {
     "preinstall": "npx npm-force-resolutions"
   },
+  "overrides": {
+    "graphql": "^16.10.0"
+  },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.23.0",
+    "@typescript-eslint/parser": "^8.23.0",
+    "eslint": "^9.20.0",
     "npm-force-resolutions": "^0.0.3"
   }
 }

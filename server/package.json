@@ -18,7 +18,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@graphql-tools/mock": "^9.0.15",
-    "@graphql-tools/schema": "^10.0.16"
+    "@graphql-tools/mock": "^9.0.17",
+    "@graphql-tools/schema": "^10.0.18"
   }
 }

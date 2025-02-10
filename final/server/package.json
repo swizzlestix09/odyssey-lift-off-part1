@@ -23,5 +23,8 @@
     "@graphql-tools/schema": "^10.0.0",
     "graphql": "^16.10.0",
     "graphql-tag": "^2.12.6"
+  },
+  "overrides": {
+    "graphql": "^16.10.0"
   }
 }
